@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1444644588984_1" label="project" name="project">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-admin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-data" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-service" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1444644241135_0" label="Window Working Set" name="Aggregate for window 1444644241134"/>
+</workingSetManager>

@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Mon Oct 31 13:54:38 IST 2016
+org.eclipse.jst.j2ee.server\:project-service=D\:\\apache-tomcat-7.0.62\\webapps\\project-web\\WEB-INF\\lib\\project-service-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:project-data=D\:\\apache-tomcat-7.0.62\\webapps\\project-web\\WEB-INF\\lib\\project-data-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:project-web=D\:\\apache-tomcat-7.0.62\\webapps\\project-web
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\admin\\.m2\\repository\\org\\springframework\\spring-web\\4.1.6.RELEASE\\spring-web-4.1.6.RELEASE.jar=D\:\\apache-tomcat-7.0.62\\webapps\\project-web\\WEB-INF\\lib\\spring-web-4.1.6.RELEASE.jar
+org.eclipse.jst.j2ee.server\:project-admin=D\:\\apache-tomcat-7.0.62\\webapps\\project-admin
